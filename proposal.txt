@@ -1,0 +1,45 @@
+Group 2 Dapp Proposal:
+Corporate Proposal:
+Employee Living Healthy Dapp (LHD). Start with ICO to create tokens Employees can earn for completely health tasks including: Exercise, Calorie Count, Weight Tracker and Challenges. Corporation provides the initial investment to mint the HealthLivingCoins (HLC). Employees complete activities for a healthy living each day. Dapp allows employees to enter tasks listed above, then runs solidity contract(s) to determine token balance per employee. Code to calculate BMI, ideal weight and calories (probably not time to complete calorie counter in 1 week), but determine calorie goal based on Gender, Age and Activity level (Sedentary, Moderate or Active). Utilize ideal weight, current wait and daily calorie goal to determine time-frame to reach ideal weight or time-frame to determine daily calorie goal. Initial supply of coins is 100,000 for all employees to earn as quickly as possible. 
+
+Expansion Proposal:
+Living healthy Competition / Gambling Dapp. Complete with Friends, Co-workers and others to loose weight and start healthy activities. Set time periods and amounts you want to wager. Then we get percent of winnings and if no one hits the weight goal we keep the full amount. Then we have have sponsors (Juice Cleanses, GYMS, training videos). And even if we are getting some Money out of this, we are giving them the benefit of a healthy lifestyle, which is priceless. No gamling for Corporate App for Employee Health (side app).
+
+Tokens:
+Health Coins for doing the following:
+* Exercise - Exercise Log
+    - DDLB Type
+    - Sets
+    - Reps
+* Eating heatlhy - Food Log
+    - Meal Type (Breakfast, Lunch, Dinner, Snack)
+    - Calory Count
+* Start Challenge - Join new Challenge
+    - DDLB Name
+    - Start Date
+    - End Date
+    - Members in Challenge
+    - Wager Health Coins per Member
+    - Challenge Goal
+* Get more in Challenge - Coin for each person in challenge
+    - Challenge Name
+    - Number of Members
+* Winning Challenge - most weight lose, most exercrise(s)
+    - First to reach Challenge Goal
+
+Solidity:
+* ICO 100,000
+* Corp backer $1mm => 100,000 HC
+* Coin based on ratio of calory burn vs in
+* Business model, enterprise companies to get employees fit to lower overall med expense
+* Health Employee == Happy Employee
+* Determine pay ration for behavior
+
+SDLC
+Tech Specs
+Dapp
+Front end runs calculations utilizing Python
+Solidity runs contracts
+
+Assumptions:
+* Member Already Signed In
