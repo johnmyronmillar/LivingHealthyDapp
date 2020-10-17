@@ -1,0 +1,4 @@
+//import "objectives.sol";
+contract ObjectivesTest{
+    function (){}
+}
