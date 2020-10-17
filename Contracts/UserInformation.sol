@@ -1,4 +1,4 @@
-pragma solidity 0.5.0;
+pragma solidity ^0.5.0;
 
 contract UserInformation{
 	string name;
@@ -13,7 +13,7 @@ contract UserInformation{
 
 	
 	constructor() public {
-		name = "Sample Name";
+	name = "Sample Name";
         age = 0;
         phone = "Not defined";
         adress = "Not defined";
