@@ -24,7 +24,7 @@ contract HealthAuction {
     // confirm a transaction.
 
     /// Create a simple auction with `_BetdingTime`
-    /// seconds Betding time on behalf of the
+    /// seconds Betting time on behalf of the
     /// beneficiary address `_beneficiary`.
     constructor(
         address payable _beneficiary
