@@ -36,6 +36,8 @@ The beauty of this dApp process is the simplicity of standing up a new environme
 * Solidity Contract accepts wager
 * Solidity distribute winnings at the end of the challenge
 
+![Process Flow](Images/LHD_Process_Flow.jpg)
+
 ### Data stored
 
 * User inputs (weight, age, gender)
