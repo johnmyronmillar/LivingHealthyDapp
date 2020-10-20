@@ -14,13 +14,25 @@ runs solidity contract(s) to determine token balance per employee. Code to calcu
 ## Process
 
 ### Set up
-* Connect dApp to Pyton code, IPFS and Solidity contracts
+* Connect dApp to Pyton code, IPFS, and Solidity contracts
 * Mint Coins through Solidity Contract
 * Send coins to HR address (tracking employees)
 * Enroll employee addresses on dApp and Solidity contracts
 
+### Process Flow
+* dApp sends user attributes to Python
+* Python calculates Ideal Weight and BMI for display on dApp
 
-* Capture initial user dataFront-end captures user inputs and runs calculations utilizing Python
+* dApp captures tracking information
+* IPFS saves image for verifiction
+* Python calculates weight loss goals and time to reach goals
+
+* dApp captures challenges, wagers and completion
+* Challenge recorded on blockchain
+* Solidity Contract accepts wager
+* Solidity Pays out winnings at the end of the challenge
+
+Capture initial user dataFront-end captures user inputs and runs calculations utilizing Python
 * Solidity runs contracts - Ricky
 * distribute as employees hit goal
 
@@ -35,10 +47,7 @@ runs solidity contract(s) to determine token balance per employee. Code to calcu
 * calorie inputs (break, lunch, snack, dinner)
 * challenge inputs (address of challenger, address of user, wager, goal, activity)
 * outputs (winner and winnings)
-* Integrate Dapp, Solidity and Python (AWS)
-* Test
-* Demo
-* Make Money
+
 
 
 ## Programs
