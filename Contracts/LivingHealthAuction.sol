@@ -1,6 +1,6 @@
 pragma solidity ^0.6.0;
 
-contract HealthAuction {
+contract LivingHealthyAuction {
     address payable public beneficiary;
 
     // Current state of the auction.
@@ -23,7 +23,7 @@ contract HealthAuction {
     // It will be shown when the user is asked to
     // confirm a transaction.
 
-    /// Create a simple auction with `_BetdingTime`
+    /// Create a simple auction with `_BettingTime`
     /// seconds Betting time on behalf of the
     /// beneficiary address `_beneficiary`.
     constructor(
