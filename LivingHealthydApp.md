@@ -11,6 +11,14 @@ The new Living Healthy dApp (LHD) helps companies motivate employees to make hea
 
 LHD allows companies to run solidity contract(s) to manage and retain the tokens they minted. Plus, the contracts are utilized of making public wagers for healthy competition. The LHD also provides employees the ability to calculate BMI, ideal weight, calorie in-take and calories burned Gender, Age and Activity level (Sedentary, Moderate or Active). The ideal weight, current weight and daily calorie goal are utilized to determine timeframe to reach ideal weight or timeframe to determine daily calorie goal. 
 
+## Unique
+
+> Compelling: Most company health programs are limited in the types of challenges and rewards are capped. LHD allows changes to be created on the fly through Solidity contracts and the coins available are unlimited.
+
+> Transparent: Since we’re on a blockchain, the challenges are open for your friends to see and motivate you, your employer to track the benefit to the company and co-workers to challenge you.
+
+> Flexible: Goals and challenges are controlled by the employee instead of pre-configured.
+
 ## Process
 
 The beauty of this dApp process is the simplicity of standing up a new environment for a client. The Solidity contracts and online storage provides an application that is quick to implement and expandable for any size corporation.
