@@ -19,6 +19,20 @@ LHD allows companies to run solidity contract(s) to manage and retain the tokens
 
 > Flexible: Goals and challenges are controlled by the employee instead of pre-configured.
 
+## Visual
+
+### Capture User Attributes
+![Capture User Attributes](Capture_User_Data_Full.png)
+
+### Daily Food Log
+![Daily Food Log](Daily_Food_Log_Full.png)
+
+### Daily Exercise Log
+![Daily Exercise Log](Daily_Exercise_Full.png)
+
+### Challenge Page
+![Challenge Page](Challenge_Full.png)
+
 ## Process
 
 The beauty of this dApp process is the simplicity of standing up a new environment for a client. The Solidity contracts and online storage provides an application that is quick to implement and expandable for any size corporation.
