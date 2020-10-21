@@ -22,16 +22,16 @@ LHD allows companies to run solidity contract(s) to manage and retain the tokens
 ## Visual
 
 ### Capture User Attributes
-![Capture User Attributes](Capture_User_Data_Full.png)
+![Capture User Attributes](Images/Capture_User_Data_Full.png)
 
 ### Daily Food Log
-![Daily Food Log](Daily_Food_Log_Full.png)
+![Daily Food Log](Images/Daily_Food_Log_Full.png)
 
 ### Daily Exercise Log
-![Daily Exercise Log](Daily_Exercise_Full.png)
+![Daily Exercise Log](Images/Daily_Exercise_Full.png)
 
 ### Challenge Page
-![Challenge Page](Challenge_Full.png)
+![Challenge Page](Images/Challenge_Full.png)
 
 ## Process
 
