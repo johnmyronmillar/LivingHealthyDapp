@@ -1,10 +1,5 @@
 # Living Healthy dApp
 
-## Members: 
-* Aaron Packard
-* John Millar
-* Ricky Henderson
-
 ## Corporate Proposal
 
 The new Living Healthy dApp (LHD) helps companies motivate employees to make healthier choices. LHD accomplishes this goal by motivating employees through money. We start with allowing companies to run their own ICO to create tokens Employees can earn for completing healthy tasks including: Exercise, Calorie Count, Weight Tracker and Challenges with Wagers. The corporation provides the initial investment to LHD to mint the Living Healthy Coins (LHC). The Solidity contracts provide the corporate address with the newly minted coins. Then employees are able to start competing for their share of the LHC. The employees can convert there LHC into real money, but corporation can control the exchange rate.
